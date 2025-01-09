@@ -89,6 +89,7 @@ nav ul{
     margin: 0 auto;
 }
 .about{
+    margin-top: 0;
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
